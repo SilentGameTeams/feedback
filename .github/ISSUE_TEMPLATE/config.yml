@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 安全漏洞私下报告 / Security report
+    url: https://github.com/SilentGameTeams/feedback#readme
+    about: 请勿在公开 issue 中披露安全漏洞；请通过 README 中的安全邮箱联系。
+  - name: 反馈入口 / Feedback entry
+    url: https://silentgameteams.github.io/feedback/
+    about: 打开反馈入口，选择语言和反馈类型。 / Open the feedback entry and choose a language and feedback type.
+  - name: 完整模板选择页 / Full template picker
+    url: https://github.com/SilentGameTeams/feedback/issues/new/choose
+    about: 如果 New issue 只显示弹窗，可用此链接打开完整选择页。
+  - name: 反馈说明 / Feedback guide
+    url: https://github.com/SilentGameTeams/feedback#readme
+    about: 查看反馈范围、项目目录与提交路径。
